@@ -5,8 +5,6 @@ _FUTEBOL_
 
 _MESSI_
 
-_MIA KHALIFA_
-
 _TENIS DE MESA_
 
 ## oque eu quero fazer:
